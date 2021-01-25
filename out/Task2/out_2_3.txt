@@ -1,0 +1,3 @@
+Avg Bedrooms   Avg Bathrooms
+
+3.0   2.375   
