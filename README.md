@@ -1,5 +1,5 @@
-# Truata_Code_Challenge
-Code challenge Truata
+# Code_Challenge
+Code challenge 
 
 
 Two folders
