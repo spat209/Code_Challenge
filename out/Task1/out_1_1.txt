@@ -1,0 +1,169 @@
+Product  citrus fruit
+Product  semi-finished bread
+Product  margarine
+Product  ready soups
+Product  tropical fruit
+Product  whole milk
+Product  cream cheese 
+Product  meat spreads
+Product  other vegetables
+Product  butter
+Product  rolls/buns
+Product  UHT-milk
+Product  bottled beer
+Product  liquor (appetizer)
+Product  cereals
+Product  chocolate
+Product  curd
+Product  flour
+Product  dishes
+Product  beef
+Product  soda
+Product  sugar
+Product  specialty bar
+Product  processed cheese
+Product  root vegetables
+Product  sweet spreads
+Product  candy
+Product  bathroom cleaner
+Product  canned beer
+Product  brown bread
+Product  shopping bags
+Product  hamburger meat
+Product  spices
+Product  whipped/sour cream
+Product  misc. beverages
+Product  cat food
+Product  ham
+Product  turkey
+Product  ice cream
+Product  seasonal products
+Product  red/blush wine
+Product  frozen potato products
+Product  specialty fat
+Product  sparkling wine
+Product  salt
+Product  canned vegetables
+Product  herbs
+Product  photo/film
+Product  pasta
+Product  cling film/bags
+Product  fish
+Product  canned fruit
+Product  honey
+Product  snack products
+Product  specialty cheese
+Product  dog food
+Product  prosecco
+Product  frozen fish
+Product  make up remover
+Product  female sanitary products
+Product  cookware
+Product  house keeping products
+Product  potato products
+Product  liquor
+Product  pet care
+Product  rum
+Product  sauces
+Product  soap
+Product  hair spray
+Product  instant coffee
+Product  roll products 
+Product  mayonnaise
+Product  rubbing alcohol
+Product  baby cosmetics
+Product  organic products
+Product  nut snack
+Product  kitchen towels
+Product  frozen chicken
+Product  ketchup
+Product  jam
+Product  decalcifier
+Product  nuts/prunes
+Product  liqueur
+Product  organic sausage
+Product  cream
+Product  toilet cleaner
+Product  baby food
+Product  tidbits
+Product  bags
+Product  cooking chocolate
+Product  kitchen utensil
+Product  preservation products
+Product  yogurt
+Product  coffee
+Product  pip fruit
+Product  condensed milk
+Product  long life bakery product
+Product  rice
+Product  abrasive cleaner
+Product  pot plants
+Product  white bread
+Product  bottled water
+Product  frankfurter
+Product  chicken
+Product  fruit/vegetable juice
+Product  newspapers
+Product  packaged fruit/vegetables
+Product  butter milk
+Product  pastry
+Product  detergent
+Product  frozen dessert
+Product  salty snack
+Product  waffles
+Product  sausage
+Product  beverages
+Product  hygiene articles
+Product  napkins
+Product  pork
+Product  berries
+Product  artif. sweetener
+Product  grapes
+Product  dessert
+Product  zwieback
+Product  domestic eggs
+Product  spread cheese
+Product  hard cheese
+Product  baking powder
+Product  pickled vegetables
+Product  oil
+Product  chewing gum
+Product  chocolate marshmallow
+Product  frozen vegetables
+Product  canned fish
+Product  curd cheese
+Product  specialty chocolate
+Product  candles
+Product  flower (seeds)
+Product  frozen meals
+Product  onions
+Product  white wine
+Product  brandy
+Product  sliced cheese
+Product  softener
+Product  male cosmetics
+Product  Instant food products
+Product  soft cheese
+Product  dental care
+Product  popcorn
+Product  cake bar
+Product  flower soil/fertilizer
+Product  finished products
+Product  cocoa drinks
+Product  cleaner
+Product  dish cleaner
+Product  meat
+Product  tea
+Product  mustard
+Product  skin care
+Product  soups
+Product  salad dressing
+Product  vinegar
+Product  syrup
+Product  liver loaf
+Product  light bulbs
+Product  specialty vegetables
+Product  pudding powder
+Product  whisky
+Product  frozen fruits
+Product  sound storage medium
