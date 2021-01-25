@@ -23,7 +23,7 @@ def funsplit(lines):
       lines = lines.split(',')
       return lines
 
-#Using the flatmap function as we do not want a nested list and we want a flat continuos list
+#Using the flatmap function as we do not want a nested list and we want a flat continuous list
 flat_rdd=rdd_read.flatMap(funsplit)
 
 #Calling an action to this so the transformations are applied. As spark follows a lazy transformations approach
@@ -57,14 +57,15 @@ f.close()
 
 #Task 3
 
-#Since we have flattened out the rdd we can assign a number to each item and then later we can compute the aggregate and for that aggregate we need to have a key value pair to perform aggragation
+#Since we have flattened out the rdd we can assign a number to each item and then later we can compute the aggregate and for that 
+#aggregate we need to have a key value pair to perform aggragation,so converting it to a key value pair
 dict_rdd=flat_rdd.map(lambda x: (x,1))
 
 
 #We are now grouping the elements
 dict_grp=dict_rdd.groupByKey()
 
-#Applying the mapValues function here because we need to get a sum of the values to get the total count. Here the key is the grocery product and the value is the number of time it is occuring.
+#Applying the mapValues function here because we need to get a sum of the values to get the total count. Here the key is the grocery product and the value is the number of times it is occuring.
 #Here we only want to transform the values(take the sum) but do not want our keys to be affected hence using mapvalues
 
 grp_val = dict_grp.mapValues(sum).map(lambda x: (x[1],x[0])).sortByKey(False)
