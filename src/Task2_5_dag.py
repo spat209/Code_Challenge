@@ -6,10 +6,10 @@ from airflow.operators.dummy_operator import DummyOperator #We have to import th
 
 default_args = {
     'owner': 'spathak',
-    'depends_on_past': False, #To make sure we remove the success dependency from the past runs for the overall task. Else we have to make sure that is successful to make this run
+    'depends_on_past': False, #To make sure we remove the success dependency from the past runs for the overall task. Else we have to make sure that past run is successful to make this run
     'email': ['abc@abc.com'], #The email to which notifications will be sent
     'email_on_failure': True, #Notifcation of failure
-    'email_on_retry': True, #Notification if the job is being retired
+    'email_on_retry': True, #Notification if the job is being retried
     'retries': 3, #Number of retires before the job stop running in case of failures
     'retry_delay': timedelta(minutes=5), #The wait time for retires
     }
